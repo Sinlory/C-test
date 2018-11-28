@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01out参数", "01out参数\01out参数.csproj", "{063717A9-1D93-454F-8CD1-BDB9804BA722}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02ref参数", "02ref参数\02ref参数.csproj", "{15C21462-F722-48E7-B891-0934E2ACC13B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03params可变参数", "03params可变参数\03params可变参数.csproj", "{B6E3613F-FD2C-4684-AEF0-5E11A820C5F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{063717A9-1D93-454F-8CD1-BDB9804BA722}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{063717A9-1D93-454F-8CD1-BDB9804BA722}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{063717A9-1D93-454F-8CD1-BDB9804BA722}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C21462-F722-48E7-B891-0934E2ACC13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C21462-F722-48E7-B891-0934E2ACC13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C21462-F722-48E7-B891-0934E2ACC13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C21462-F722-48E7-B891-0934E2ACC13B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6E3613F-FD2C-4684-AEF0-5E11A820C5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E3613F-FD2C-4684-AEF0-5E11A820C5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E3613F-FD2C-4684-AEF0-5E11A820C5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E3613F-FD2C-4684-AEF0-5E11A820C5F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
